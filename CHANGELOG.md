@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/actuallyzefe/sorting-ts/compare/v1.2.1...v1.3.0) (2023-03-11)
+
+
+### Features
+
+* created a linkedList ([ad15a6d](https://github.com/actuallyzefe/sorting-ts/commit/ad15a6de97d08d41950ff8264f3c953a78c8ded2))
+
 ### [1.2.1](https://github.com/actuallyzefe/sorting-ts/compare/v1.2.0...v1.2.1) (2023-03-11)
 
 
