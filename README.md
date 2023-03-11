@@ -1,3 +1,3 @@
 # sorting-ts
 
-Implemented bubble sort with typescript and linkedList.
+Implemented bubble sort and linkedList with typescript.
