@@ -13,9 +13,9 @@ class NumbersCollection {
         return this.data[leftIndex] > this.data[rightIndex];
     }
     swap(leftIndex, rightIndex) {
-        const temp = this.data[rightIndex];
-        this.data[rightIndex] = this.data[leftIndex];
-        this.data[leftIndex] = temp;
+        const temp = this.data[leftIndex];
+        this.data[leftIndex] = this.data[rightIndex];
+        this.data[rightIndex] = temp;
     }
 }
 exports.NumbersCollection = NumbersCollection;
