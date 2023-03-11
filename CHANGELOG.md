@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/actuallyzefe/sorting-ts/compare/v1.3.1...v2.0.0) (2023-03-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* refactored with abstract classes
+
+* refactored with abstract classes ([0c682a4](https://github.com/actuallyzefe/sorting-ts/commit/0c682a4e4bf56cbc0ce1ada2bb57a5f66cec6ff9))
+
 ### [1.3.1](https://github.com/actuallyzefe/sorting-ts/compare/v1.3.0...v1.3.1) (2023-03-11)
 
 ## [1.3.0](https://github.com/actuallyzefe/sorting-ts/compare/v1.2.1...v1.3.0) (2023-03-11)
